@@ -18,8 +18,8 @@
 </tr>
 <tr>
     <td>15</td>
+    <td>(3)</td>
     <td>(18)</td>
-    <td>3</td>
     <td>14</td>
     <td>12</td>
 </tr>
